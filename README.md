@@ -30,8 +30,8 @@ an effect on reducing the crime rate
 
 ## Group Project
 Members:
-Huy Truong
-Savrin Darash
-Derek Tallent
-Quan Tran
+Huy Truong,
+Savrin Darash,
+Derek Tallent,
+Quan Tran,
 Mahdi Shirvin
