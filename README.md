@@ -26,3 +26,12 @@ negligible[e.g., Duggan, 2001; Ayres and Donohue, 2003a, 2003b], and still other
 that such laws increase violent crime.[Rosengart et al. (2005) ] We would like to find out
 whether our data would lead to the same conclusion or show that the shall-issue law has
 an effect on reducing the crime rate
+
+
+## Group Project
+Members:
+Huy Truong
+Savrin Darash
+Derek Tallent
+Quan Tran
+Mahdi Shirvin
